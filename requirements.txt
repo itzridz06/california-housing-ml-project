@@ -4,3 +4,6 @@ scikit-learn
 pandas
 numpy
 jinja2
+matplotlib
+seaborn
+python-multipart
