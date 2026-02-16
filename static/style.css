@@ -57,3 +57,24 @@ img {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
+.section-title {
+    text-align: center;
+    margin-top: 40px;
+    color: #c2185b;
+}
+
+.image-section {
+    display: flex;
+    flex-direction: column;   /* stack vertically */
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.image-section img {
+    width: 70%;              /* control size */
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
